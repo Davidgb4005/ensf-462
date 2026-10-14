@@ -1,0 +1,9 @@
+1) TCP,DNS,HTTP,TLSV1.3,MDNS,PNIO,ECAT
+
+2) 100.448109ms
+
+3) 128.119.245.12
+
+4) Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+
+5) 80

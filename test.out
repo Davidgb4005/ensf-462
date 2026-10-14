@@ -1,0 +1,60 @@
+Initial DNS lookups
+=== 13:54:49 | ca (NS) ===
+ca.			85129	IN	NS	c.ca-servers.ca.
+ca.			85129	IN	NS	d.ca-servers.ca.
+ca.			85129	IN	NS	j.ca-servers.ca.
+ca.			85129	IN	NS	any.ca-servers.ca.
+
+=== 13:54:49 | ucalgary.ca (NS) ===
+ucalgary.ca.		6160	IN	NS	ns1.d-zone.ca.
+ucalgary.ca.		6160	IN	NS	ns2.d-zone.ca.
+
+=== 13:54:49 | schulich.ucalgary.ca (A) ===
+schulich.ucalgary.ca.	7200	IN	A	136.159.96.183
+
+TTL values after 5 seconds
+=== 13:54:55 | ca (NS) ===
+ca.			85124	IN	NS	c.ca-servers.ca.
+ca.			85124	IN	NS	d.ca-servers.ca.
+ca.			85124	IN	NS	j.ca-servers.ca.
+ca.			85124	IN	NS	any.ca-servers.ca.
+
+=== 13:54:55 | ucalgary.ca (NS) ===
+ucalgary.ca.		6155	IN	NS	ns1.d-zone.ca.
+ucalgary.ca.		6155	IN	NS	ns2.d-zone.ca.
+
+=== 13:54:55 | schulich.ucalgary.ca (A) ===
+schulich.ucalgary.ca.	7195	IN	A	136.159.96.183
+
+Query related domain
+=== 13:55:00 | cpsc.ucalgary.ca (A) ===
+cpsc.ucalgary.ca.	11651	IN	A	136.159.2.21
+
+Check whether parent TTLs reset
+=== 13:55:00 | ca (NS) ===
+ca.			85119	IN	NS	c.ca-servers.ca.
+ca.			85119	IN	NS	d.ca-servers.ca.
+ca.			85119	IN	NS	j.ca-servers.ca.
+ca.			85119	IN	NS	any.ca-servers.ca.
+
+=== 13:55:00 | ucalgary.ca (NS) ===
+ucalgary.ca.		6150	IN	NS	ns1.d-zone.ca.
+ucalgary.ca.		6150	IN	NS	ns2.d-zone.ca.
+
+=== 13:55:00 | schulich.ucalgary.ca (A) ===
+schulich.ucalgary.ca.	7190	IN	A	136.159.96.183
+
+Final Status
+=== 13:55:05 | ca (NS) ===
+ca.			85114	IN	NS	c.ca-servers.ca.
+ca.			85114	IN	NS	d.ca-servers.ca.
+ca.			85114	IN	NS	j.ca-servers.ca.
+ca.			85114	IN	NS	any.ca-servers.ca.
+
+=== 13:55:05 | ucalgary.ca (NS) ===
+ucalgary.ca.		6145	IN	NS	ns1.d-zone.ca.
+ucalgary.ca.		6145	IN	NS	ns2.d-zone.ca.
+
+=== 13:55:05 | schulich.ucalgary.ca (A) ===
+schulich.ucalgary.ca.	7185	IN	A	136.159.96.183
+
